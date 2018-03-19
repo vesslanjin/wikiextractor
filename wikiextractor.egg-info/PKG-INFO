@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: wikiextractor
+Version: 2.69
+Summary: A script that extracts and cleans text from a Wikipediadatabase dump
+Home-page: https://github.com/attardi/wikiextractor
+Author: Giuseppe Attardi
+Author-email: attardi@di.unipi.it
+License: GPL 3.0
+Description: UNKNOWN
+Keywords: text,nlp
+Platform: UNKNOWN

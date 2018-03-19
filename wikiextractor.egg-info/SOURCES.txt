@@ -1,0 +1,6 @@
+WikiExtractor.py
+setup.py
+wikiextractor.egg-info/PKG-INFO
+wikiextractor.egg-info/SOURCES.txt
+wikiextractor.egg-info/dependency_links.txt
+wikiextractor.egg-info/top_level.txt
